@@ -42,9 +42,9 @@ which contains transactional-level retail data with the following fields:
 ---
 ## 📊 Dashboard Screenshots:
 
-![Dashboard Overview](./Looker_Studio/images/1.png)
-![Dashboard Overview](./Looker_Studio/images/2.png)
-![Dashboard Overview](./Looker_Studio/images/3.png)
+![Dashboard Overview](./images/1.png)
+![Dashboard Overview](./images/2.png)
+![Dashboard Overview](./images/3.png)
 
 ---
 ## 🛠 Tools & Technologies Used:
