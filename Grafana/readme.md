@@ -27,12 +27,6 @@ The Dataset is Server Log file. which contains data in following format:
 - Loki as a logging tool.
 - Promtail for sending data from log file to Loki
 
----
-## 📈 Key Insights Derived:
-
-- Technology category of product have higher profit margin than others.
-- California have highest number of customers but New York have higher profits.
-- Consumer segment drives maximum sales and profit.
 
 ---
 ## 🚀 How to Use
