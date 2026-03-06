@@ -29,7 +29,7 @@ which contains data with the following fields:
 
 - Power BI
 - Data Visualization Techniques
-- Calculated Fields (Profit Margin, Parsing Dates, etc.)
+- Calculated Fields.
 - Interactive Filters & Controls
 
 ---
